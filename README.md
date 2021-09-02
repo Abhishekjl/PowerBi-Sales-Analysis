@@ -13,11 +13,11 @@ Insight Can be Discovered by Dashboard:
 1.Customer with most Sales but they are having Loss
 
 2. More we Sell more we loss in the case of Table
-3. 
-4. Office Sales have less sale but it has good profit
-5. 
-6. Using Heatmap we can compare products for their  Sales vs Profit 
-7. 
-8. Using Sale Forecasting we can say that Technologies category have steady growth with no up and down 
-9. 
-10. Phone is the category more we sell but less profit 
+
+3. Office Sales have less sale but it has good profit
+ 
+4. Using Heatmap we can compare products for their  Sales vs Profit 
+ 
+5. Using Sale Forecasting we can say that Technologies category have steady growth with no up and down 
+ 
+6. Phone is the category more we sell but less profit 
