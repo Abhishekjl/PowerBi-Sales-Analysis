@@ -7,6 +7,6 @@ Dax Function Used : DateAdd, AddColumns, Filter, Calculate, Switch, If,Else,All,
 
 https://app.powerbi.com/groups/me/reports/219ed8ad-5720-4b65-8eed-4fe860138f94/ReportSectione99c9959143ddaa34922
 
-https://ibb.co/Y2bYhgx
+!https://ibb.co/Y2bYhgx
 
 
